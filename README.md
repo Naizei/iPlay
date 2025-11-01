@@ -33,7 +33,7 @@ Supports `Android`, `iOS`, `MacOS`, `XBox` and `Windows`
 
 ### 🌟 Feature
 
-- [x] Support Emby
+- [x] Support Emby 
 - [x] Support Jellyfin
 - [x] Multi-site switch
 - [x] Use custom font
